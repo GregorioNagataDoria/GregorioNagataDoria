@@ -10,7 +10,7 @@
 
 <img src="./readme-imgs/crowdfund.png" alt="">
 
-# *Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
 <hr/>
 
