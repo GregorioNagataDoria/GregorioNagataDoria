@@ -1,6 +1,6 @@
 # Oi, Sou Gregório Nagata Doria ! Bem vindo a minha pagina do GitHub !
 
-<img src='{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}'/>
+<img src='{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}'>
 
 
 
