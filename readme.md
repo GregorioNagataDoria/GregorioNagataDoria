@@ -9,6 +9,7 @@
 #Link do repositorio : https://github.com/GregorioNagataDoria/kickstarter-semelhante
 
 <img src="./readme-imgs/crowdfund.png" alt="">
+
 # *Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
 <hr/>
