@@ -1,5 +1,8 @@
 # Oi, Sou Gregório Nagata Doria ! Bem vindo a minha pagina do GitHub !
 
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
+
 # Aqui embaixo estão alguns exemplos dos meus projetos
 
 <hr/>
@@ -8,9 +11,11 @@
 
 #Link do repositorio : https://github.com/GregorioNagataDoria/kickstarter-semelhante
 
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
 <img src="./readme-imgs/crowdfund.png" alt="">
 
-#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
 
 <hr/>
 
@@ -19,15 +24,19 @@
 
 #Link do repositorio : https://github.com/GregorioNagataDoria/site-empresa-design-e-marketing
 
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
 <img src="./readme-imgs/sunnyside.png" alt="">
 
-#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
 
 <hr/>
 
 # Site de empresa Blogr
 
 #Link do repositorio : https://github.com/GregorioNagataDoria/site-compania-de-marketing-BLOGR-
+
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
 <img src="./readme-imgs/blogr.png" alt="">
 
