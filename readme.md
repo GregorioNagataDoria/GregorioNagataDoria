@@ -14,6 +14,24 @@
 
 <hr/>
 
+
+# Site de uma empresa de marketing:
+
+#Link do repositorio : https://github.com/GregorioNagataDoria/site-empresa-design-e-marketing
+
 <img src="./readme-imgs/sunnyside.png" alt="">
 
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
+<hr/>
+
+# Site de empresa Blogr
+
+#Link do repositorio : https://github.com/GregorioNagataDoria/site-compania-de-marketing-BLOGR-
+
 <img src="./readme-imgs/blogr.png" alt="">
+
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
+
+
