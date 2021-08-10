@@ -4,7 +4,7 @@
 
 <hr/>
 
-#Site similhante ao Kickstarter:
+# Site similhante ao Kickstarter:
 
 #Link do repositorio : https://github.com/GregorioNagataDoria/kickstarter-semelhante
 
