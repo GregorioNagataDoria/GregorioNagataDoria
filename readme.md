@@ -2,6 +2,8 @@
 
 # Aqui embaixo estão alguns exemplos dos meus projetos
 
+<hr/>
+
 <img src="./readme-imgs/crowdfund.png" alt="">
 
 <img src="./readme-imgs/sunnyside.png" alt="">
