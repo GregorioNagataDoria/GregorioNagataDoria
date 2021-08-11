@@ -57,7 +57,7 @@
 
 <img src="./readme-imgs/blogr.png" alt="">
 
-#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
 
 
 
