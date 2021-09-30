@@ -51,7 +51,7 @@
 
 #Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
-<img src="./readme-imgs/job.png" alt="">
+<img src="./readme-imgs/job.jpg" alt="">
 
 
 
