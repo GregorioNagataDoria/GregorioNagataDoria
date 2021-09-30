@@ -6,17 +6,6 @@
 
 # Aqui embaixo estão alguns exemplos dos meus projetos
 
-<hr/>
-
-# Site similhante ao Kickstarter:
-
-#Link do repositorio : https://github.com/GregorioNagataDoria/kickstarter-semelhante
-
-#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
-
-<img src="./readme-imgs/crowdfund.png" alt="">
-
-
 
 <hr/>
 
@@ -32,6 +21,22 @@
 
 
 <hr/>
+
+
+
+# Site com todos os países do mundo:
+
+#Link do repositorio : https://github.com/GregorioNagataDoria/AllCountries
+
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
+<img src="./readme-imgs/start.jpeg" alt="">
+<hr/>
+<img src="./readme-imgs/zoom.jpeg" alt="">
+
+
+<hr/>
+
 
 # Site de empresa Blogr
 
