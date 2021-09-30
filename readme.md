@@ -30,9 +30,9 @@
 
 #Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
-<img src="./readme-imgs/start.jpeg" alt="">
+<img src="./readme-imgs/start.jpg" alt="">
 <hr/>
-<img src="./readme-imgs/zoom.jpeg" alt="">
+<img src="./readme-imgs/zoom.jpg" alt="">
 
 
 <hr/>
