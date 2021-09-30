@@ -19,32 +19,39 @@
 <img src="./readme-imgs/sunnyside.png" alt="">
 
 
-
 <hr/>
 
-
-
-# Site com todos os países do mundo:
+# Site com todos os países do mundo
 
 #Link do repositorio : https://github.com/GregorioNagataDoria/AllCountries
 
 #Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
-<img src="./readme-imgs/start.jpg" alt="">
+<img src="./readme-imgs/start-d.jpg" alt="">
 <hr/>
-<img src="./readme-imgs/zoom.jpg" alt="">
+<img src="./readme-imgs/zoom-d.jpg" alt="">
 
 
 <hr/>
 
+# Site com informações de redes sociais:
 
-# Site de empresa Blogr
-
-#Link do repositorio : https://github.com/GregorioNagataDoria/site-compania-de-marketing-BLOGR-
+#Link do repositorio : https://github.com/GregorioNagataDoria/site-redesocial-dados
 
 #Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
 
-<img src="./readme-imgs/blogr.png" alt="">
+<img src="./readme-imgs/social-d.jpg" alt="">
+
+
+<hr/>
+
+# Site de lista de vagas de emprego 
+
+#Link do repositorio : https://github.com/GregorioNagataDoria/ListaDeVagasComTags
+
+#Site feito pelas especificações do FrontendMentor : https://www.frontendmentor.io/challenges
+
+<img src="./readme-imgs/job.png" alt="">
 
 
 
